@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/beautiful-portfolio"> {/* Usa el nombre de tu repo aquí */}
+    <BrowserRouter basename="/arecks_website">
       <App />
     </BrowserRouter>
   </React.StrictMode>
