@@ -79,10 +79,10 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Teléfono</h4>
                   <a
-                    href="tel:+578820655"
+                    href="tel:+59174020906"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    78820655
+                    74020906
                   </a>
                 </div>
               </div>

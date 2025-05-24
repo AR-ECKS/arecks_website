@@ -54,7 +54,7 @@ export const Navbar = () => {
           className="text-xl font-bold text-primary flex items-center space-x-3"
           href="#hero"
         >
-          <img src="/src/assets/img/LOGO.png" alt="Logo de Arecks" className="w-10 h-10" />
+          <img src="https://iili.io/3D2D0EG.md.png" alt="Logo de Arecks" className="w-10 h-10" />
           <span className="relative z-10">
             <span className="text-glow text-foreground">Arecks</span> Software & Marketing
           </span>
